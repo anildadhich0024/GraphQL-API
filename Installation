@@ -1,0 +1,9 @@
+1. git clone https://github.com/anildadhich0024/GraphQL-API.git
+2. composer update
+3. Create DB in phpmyadmin and make change in .env file
+4. php artisan migrate --seed
+5. php artisan serve
+6. Download GraphQl tool from https://www.electronjs.org/apps/graphiql
+7. Follow process to run api : https://www.twilio.com/blog/build-graphql-powered-api-laravel-php
+
+NOTE : Delault book model created when you run 4 step
